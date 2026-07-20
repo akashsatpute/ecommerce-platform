@@ -1,0 +1,90 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+app-categories-products .popup-overlay{
+    position:fixed;
+    inset:0;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background:rgba(0,37,84,0.58);
+    padding:24px;
+    z-index:1000;
+}
+
+app-categories-products .popup-box{
+    position:relative;
+    width:100%;
+    max-width:420px;
+    background:white;
+    border:1px solid rgba(0,123,255,0.35);
+    border-radius:10px;
+    box-shadow:0 24px 70px rgba(0,0,0,0.42);
+}
+
+app-categories-products .close-btn{
+    position:absolute;
+    top:10px;
+    right:12px;
+    width:34px;
+    height:34px;
+    border:none;
+    border-radius:50%;
+    background:#f3f4f6;
+    color:#111827;
+    font-size:24px;
+    line-height:1;
+    cursor:pointer;
+}
+
+app-categories-products .popup-form{
+    padding:34px 30px 30px;
+}
+
+app-categories-products .popup-form h2{
+    margin-bottom:20px;
+    text-align:center;
+    color:#0056b3;
+}
+
+app-categories-products .popup-form label{
+    display:block;
+    margin:12px 0 6px;
+    color:#17324d;
+    font-weight:bold;
+}
+
+app-categories-products .popup-form input{
+    width:100%;
+    padding:12px;
+    border:1px solid rgba(0,123,255,0.25);
+    border-radius:6px;
+    font-size:15px;
+}
+
+app-categories-products .popup-form button[type="submit"]{
+    width:100%;
+    margin-top:22px;
+    padding:12px;
+    border:none;
+    border-radius:6px;
+    background:#007bff;
+    color:white;
+    font-size:16px;
+    font-weight:bold;
+    cursor:pointer;
+}
+
+app-categories-products .popup-form button:disabled{
+    opacity:0.65;
+    cursor:not-allowed;
+}
+
+app-categories-products .error-message{
+    margin-top:12px;
+    padding:10px;
+    border-radius:6px;
+    background:#fef2f2;
+    color:#b91c1c;
+    text-align:center;
+    font-weight:bold;
+}

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset='utf-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <title>Page Title</title>
+</head>
+<body>
+      <form class="popup-form" (ngSubmit)="login()">
+            <h2>Login</h2>
+
+            <label for="popupLoginId">Username or Email</label>
+            <input id="popupLoginId" name="popupLoginId" type="text" placeholder="Enter username or email" [(ngModel)]="loginId" required>
+
+            <label for="popupLoginPassword">Password</label>
+            <input id="popupLoginPassword" name="popupLoginPassword" type="password" placeholder="Enter password" [(ngModel)]="loginPassword" required>
+
+            <button type="submit" [disabled]="isSubmitting">{{ isSubmitting ? 'Logging in...' : 'Login' }}</button>
+
+            <div class="auth-divider">or</div>
+            <button class="oauth-btn" type="button" (click)="oauthLogin('google')">Continue with Google</button>
+            <button class="oauth-btn github" type="button" (click)="oauthLogin('github')">Continue with GitHub</button>
+
+            <p class="success-message" *ngIf="authMessage">{{ authMessage }}</p>
+            <p class="error-message" *ngIf="authError">{{ authError }}</p>
+        </form>
+
+</body>
+</html>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 320" role="img" aria-labelledby="title desc">
+  <title id="title">Laptop and mobile phone</title>
+  <desc id="desc">A laptop with a mobile phone beside it.</desc>
+  <rect width="500" height="320" fill="#eef5ff"/>
+  <circle cx="80" cy="70" r="54" fill="#d7ebff"/>
+  <circle cx="430" cy="245" r="62" fill="#dff6ea"/>
+  <rect x="92" y="72" width="292" height="184" rx="18" fill="#25364d"/>
+  <rect x="112" y="92" width="252" height="144" rx="8" fill="#8dd7ff"/>
+  <rect x="54" y="252" width="368" height="34" rx="10" fill="#1c293b"/>
+  <rect x="164" y="263" width="146" height="8" rx="4" fill="#516179"/>
+  <rect x="342" y="112" width="82" height="150" rx="17" fill="#111827"/>
+  <rect x="351" y="128" width="64" height="112" rx="8" fill="#f8fafc"/>
+  <circle cx="383" cy="250" r="5" fill="#6b7280"/>
+  <rect x="131" y="116" width="94" height="14" rx="7" fill="#ffffff" opacity="0.85"/>
+  <rect x="131" y="145" width="174" height="11" rx="5.5" fill="#ffffff" opacity="0.65"/>
+  <rect x="131" y="170" width="138" height="11" rx="5.5" fill="#ffffff" opacity="0.65"/>
+  <rect x="131" y="197" width="70" height="20" rx="10" fill="#2563eb"/>
+</svg>

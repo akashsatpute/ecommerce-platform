@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Voltas 1.5 Ton AC",
+    "description": "Energy-efficient cooling appliance with fast cooling, low noise, and smart temperature control.",
+    "price": "₹28,999",
+    "mrp": "₹34,299",
+    "discount": "15% off",
+    "rating": "4.0",
+    "bought": "1K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery Tomorrow",
+    "image": "/assets/products/images/air-conditioners/voltas.jpg"
+  },
+  {
+    "name": "LG Dual Inverter AC Series 2",
+    "description": "Energy-efficient cooling appliance with fast cooling, low noise, and smart temperature control.",
+    "price": "₹31,319",
+    "mrp": "₹37,099",
+    "discount": "16% off",
+    "rating": "4.1",
+    "bought": "2K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery in 2 days",
+    "image": "/assets/products/images/air-conditioners/lg-ac.jpg"
+  },
+  {
+    "name": "Samsung WindFree AC Series 3",
+    "description": "Energy-efficient cooling appliance with fast cooling, low noise, and smart temperature control.",
+    "price": "₹33,639",
+    "mrp": "₹39,799",
+    "discount": "15% off",
+    "rating": "4.2",
+    "bought": "3K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery Tomorrow",
+    "image": "/assets/products/images/air-conditioners/samsung-ac.jpg"
+  },
+  {
+    "name": "Daikin Split AC Series 4",
+    "description": "Energy-efficient cooling appliance with fast cooling, low noise, and smart temperature control.",
+    "price": "₹35,959",
+    "mrp": "₹42,499",
+    "discount": "15% off",
+    "rating": "4.3",
+    "bought": "4K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery in 2 days",
+    "image": "/assets/products/images/air-conditioners/daikin.jpg"
+  },
+  {
+    "name": "Blue Star AC Series 5",
+    "description": "Energy-efficient cooling appliance with fast cooling, low noise, and smart temperature control.",
+    "price": "₹38,279",
+    "mrp": "₹45,299",
+    "discount": "15% off",
+    "rating": "4.4",
+    "bought": "5K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery Tomorrow",
+    "image": "/assets/products/images/air-conditioners/bluestar.jpg"
+  },
+  {
+    "name": "Carrier Convertible AC Series 6",
+    "description": "Energy-efficient cooling appliance with fast cooling, low noise, and smart temperature control.",
+    "price": "₹40,599",
+    "mrp": "₹47,999",
+    "discount": "15% off",
+    "rating": "4.5",
+    "bought": "6K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery in 2 days",
+    "image": "/assets/products/images/air-conditioners/carrier.jpg"
+  },
+  {
+    "name": "Hitachi Cooling AC Series 7",
+    "description": "Energy-efficient cooling appliance with fast cooling, low noise, and smart temperature control.",
+    "price": "₹42,919",
+    "mrp": "₹50,699",
+    "discount": "15% off",
+    "rating": "4.6",
+    "bought": "7K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery Tomorrow",
+    "image": "/assets/products/images/air-conditioners/hitachi.jpg"
+  },
+  {
+    "name": "Panasonic Smart AC Series 8",
+    "description": "Energy-efficient cooling appliance with fast cooling, low noise, and smart temperature control.",
+    "price": "₹45,239",
+    "mrp": "₹53,499",
+    "discount": "15% off",
+    "rating": "4.0",
+    "bought": "8K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery in 2 days",
+    "image": "/assets/products/images/air-conditioners/panasonic-ac.jpg"
+  },
+  {
+    "name": "Whirlpool Inverter AC Series 9",
+    "description": "Energy-efficient cooling appliance with fast cooling, low noise, and smart temperature control.",
+    "price": "₹47,559",
+    "mrp": "₹56,199",
+    "discount": "15% off",
+    "rating": "4.1",
+    "bought": "9K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery Tomorrow",
+    "image": "/assets/products/images/air-conditioners/whirlpool-ac.jpg"
+  },
+  {
+    "name": "Lloyd Split AC Series 10",
+    "description": "Energy-efficient cooling appliance with fast cooling, low noise, and smart temperature control.",
+    "price": "₹49,879",
+    "mrp": "₹58,999",
+    "discount": "15% off",
+    "rating": "4.2",
+    "bought": "10K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery in 2 days",
+    "image": "/assets/products/images/air-conditioners/lloyd-ac.jpg"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Nike Run Swift",
+    "description": "Lightweight running shoes with soft cushioning, breathable upper, and strong grip.",
+    "price": "₹1,499",
+    "mrp": "₹1,899",
+    "discount": "21% off",
+    "rating": "4.0",
+    "bought": "1K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery Tomorrow",
+    "image": "/assets/products/images/running-shoes/nike-run.jpg"
+  },
+  {
+    "name": "Adidas Galaxy Run Series 2",
+    "description": "Lightweight running shoes with soft cushioning, breathable upper, and strong grip.",
+    "price": "₹1,799",
+    "mrp": "₹2,199",
+    "discount": "18% off",
+    "rating": "4.1",
+    "bought": "2K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery in 2 days",
+    "image": "/assets/products/images/running-shoes/adidas-run.jpg"
+  },
+  {
+    "name": "Puma Flyer Series 3",
+    "description": "Lightweight running shoes with soft cushioning, breathable upper, and strong grip.",
+    "price": "₹2,099",
+    "mrp": "₹2,599",
+    "discount": "19% off",
+    "rating": "4.2",
+    "bought": "3K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery Tomorrow",
+    "image": "/assets/products/images/running-shoes/puma-run.jpg"
+  },
+  {
+    "name": "Asics Gel Run Series 4",
+    "description": "Lightweight running shoes with soft cushioning, breathable upper, and strong grip.",
+    "price": "₹2,399",
+    "mrp": "₹2,899",
+    "discount": "17% off",
+    "rating": "4.3",
+    "bought": "4K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery in 2 days",
+    "image": "/assets/products/images/running-shoes/asics-run.jpg"
+  },
+  {
+    "name": "Reebok Runner Series 5",
+    "description": "Lightweight running shoes with soft cushioning, breathable upper, and strong grip.",
+    "price": "₹2,699",
+    "mrp": "₹3,299",
+    "discount": "18% off",
+    "rating": "4.4",
+    "bought": "5K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery Tomorrow",
+    "image": "/assets/products/images/running-shoes/reebok-run.jpg"
+  },
+  {
+    "name": "Skechers Go Run Series 6",
+    "description": "Lightweight running shoes with soft cushioning, breathable upper, and strong grip.",
+    "price": "₹2,999",
+    "mrp": "₹3,599",
+    "discount": "17% off",
+    "rating": "4.5",
+    "bought": "6K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery in 2 days",
+    "image": "/assets/products/images/running-shoes/skechers-run.jpg"
+  },
+  {
+    "name": "New Balance Fresh Foam Series 7",
+    "description": "Lightweight running shoes with soft cushioning, breathable upper, and strong grip.",
+    "price": "₹3,299",
+    "mrp": "₹3,999",
+    "discount": "18% off",
+    "rating": "4.6",
+    "bought": "7K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery Tomorrow",
+    "image": "/assets/products/images/running-shoes/newbalance-run.jpg"
+  },
+  {
+    "name": "Campus Sprint Series 8",
+    "description": "Lightweight running shoes with soft cushioning, breathable upper, and strong grip.",
+    "price": "₹3,599",
+    "mrp": "₹4,299",
+    "discount": "16% off",
+    "rating": "4.0",
+    "bought": "8K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery in 2 days",
+    "image": "/assets/products/images/running-shoes/campus-run.jpg"
+  },
+  {
+    "name": "Bata Power Run Series 9",
+    "description": "Lightweight running shoes with soft cushioning, breathable upper, and strong grip.",
+    "price": "₹3,899",
+    "mrp": "₹4,699",
+    "discount": "17% off",
+    "rating": "4.1",
+    "bought": "9K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery Tomorrow",
+    "image": "/assets/products/images/running-shoes/bata-run.jpg"
+  },
+  {
+    "name": "HRX Running Shoes Series 10",
+    "description": "Lightweight running shoes with soft cushioning, breathable upper, and strong grip.",
+    "price": "₹4,199",
+    "mrp": "₹5,099",
+    "discount": "18% off",
+    "rating": "4.2",
+    "bought": "10K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery in 2 days",
+    "image": "/assets/products/images/running-shoes/hrx-run.jpg"
+  }
+]

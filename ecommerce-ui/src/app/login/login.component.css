@@ -1,0 +1,227 @@
+/* .auth-page{
+    min-height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background:
+        linear-gradient(120deg,rgba(0,86,179,0.86),rgba(34,34,34,0.68)),
+        url("https://images.unsplash.com/photo-1607082350899-7e105aa886ae?auto=format&fit=crop&w=1400&q=80");
+    background-size:cover;
+    background-position:center;
+    padding:24px;
+}
+
+
+.auth-form{
+    width:100%;
+    max-width:380px;
+    background:#ffffff;
+    padding:32px;
+    border:1px solid rgba(0,123,255,0.25);
+    border-radius:8px;
+    box-shadow:0 22px 55px rgba(0,0,0,0.38);
+}
+
+.auth-form h1{
+    text-align:center;
+    margin-bottom:22px;
+    color:#172033;
+}
+
+.auth-form label{
+    display:block;
+    margin:12px 0 6px;
+    font-weight:bold;
+    color:#263143;
+}
+
+.auth-form input{
+    width:100%;
+    padding:12px;
+    border:1px solid rgba(0,123,255,0.25);
+    border-radius:6px;
+    font-size:15px;
+    background:#f8fbff;
+}
+
+.auth-form input:focus{
+    outline:none;
+    background:white;
+    border-color:#007bff;
+    box-shadow:0 0 0 3px rgba(0,123,255,0.16);
+}
+
+.auth-form button{
+    width:100%;
+    margin-top:22px;
+    padding:12px;
+    border:none;
+    border-radius:6px;
+    background:#007bff;
+    color:white;
+    font-size:16px;
+    font-weight:bold;
+    cursor:pointer;
+}
+
+.auth-form button:hover{
+    background:#0056b3;
+}
+
+.auth-form button:disabled{
+    opacity:0.65;
+    cursor:not-allowed;
+}
+
+.auth-divider{
+    margin:18px 0 0;
+    text-align:center;
+    color:#6b7280;
+    font-weight:bold;
+}
+
+.auth-form .oauth-btn{
+    margin-top:12px;
+    background:white;
+    color:#17324d;
+    border:1px solid #dbe7f3;
+}
+
+.auth-form .oauth-btn:hover{
+    background:#eef6ff;
+}
+
+.auth-form .oauth-btn.github{
+    background:#222;
+    color:white;
+}
+
+.auth-form .oauth-btn.github:hover{
+    background:#111827;
+}
+
+.success-message,
+.error-message{
+    margin-top:14px;
+    padding:10px;
+    border-radius:6px;
+    text-align:center;
+    font-weight:bold;
+}
+
+.success-message{
+    background:#ecfdf3;
+    color:#166534;
+}
+
+.error-message{
+    background:#fef2f2;
+    color:#b91c1c;
+}
+ */
+
+.popup-form{
+    padding:34px 30px 30px;
+}
+
+.popup-form h2{
+    margin-bottom:20px;
+    text-align:center;
+    color:#0056b3;
+}
+
+.popup-form label{
+    display:block;
+    margin:12px 0 6px;
+    color:#17324d;
+    font-weight:bold;
+}
+
+.popup-form input{
+    width:100%;
+    padding:12px;
+    border:1px solid rgba(0,123,255,0.25);
+    border-radius:6px;
+    background:#ffffff;
+    font-size:15px;
+}
+
+.popup-form input:focus{
+    outline:none;
+    background:white;
+    border-color:#007bff;
+    box-shadow:0 0 0 3px rgba(0,123,255,0.16);
+}
+
+.popup-form button[type="submit"]{
+    width:100%;
+    margin-top:22px;
+    padding:12px;
+    border:none;
+    border-radius:6px;
+    background:#007bff;
+    color:white;
+    font-size:16px;
+    font-weight:bold;
+    cursor:pointer;
+}
+
+.popup-form button[type="submit"]:hover{
+    background:#0056b3;
+}
+
+.popup-form button:disabled{
+    opacity:0.65;
+    cursor:not-allowed;
+}
+
+.auth-divider{
+    margin:16px 0 0;
+    text-align:center;
+    color:#6b7280;
+    font-weight:bold;
+}
+
+.oauth-btn{
+    width:100%;
+    margin-top:10px;
+    padding:11px;
+    border:1px solid #dbe7f3;
+    border-radius:6px;
+    background:white;
+    color:#17324d;
+    font-weight:bold;
+    cursor:pointer;
+}
+
+.oauth-btn:hover{
+    background:#eef6ff;
+}
+
+.oauth-btn.github{
+    background:#222;
+    color:white;
+}
+
+.oauth-btn.github:hover{
+    background:#111827;
+}
+
+.success-message,
+.error-message{
+    margin-top:12px;
+    padding:10px;
+    border-radius:6px;
+    text-align:center;
+    font-weight:bold;
+}
+
+.success-message{
+    background:#ecfdf3;
+    color:#166534;
+}
+
+.error-message{
+    background:#fef2f2;
+    color:#b91c1c;
+}

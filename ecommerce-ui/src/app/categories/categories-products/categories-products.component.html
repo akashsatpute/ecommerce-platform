@@ -1,0 +1,101 @@
+<main class="category-page">
+    <!-- <header class="top-navbar">
+        <button class="back-btn" type="button" routerLink="/home">Back</button>
+        <h1>{{ categoryTitle }}</h1>
+        <div class="navbar-actions">
+            <ng-container *ngIf="user$ | async as user">
+                <button class="logout-btn" type="button" (click)="logout()">Logout</button>
+            </ng-container>
+
+            <button class="cart-btn" type="button" aria-label="Open cart">
+                <span aria-hidden="true">{{ cartCount > 0 ? '🛍️' : '🛒' }}</span>
+                Cart
+                <span class="cart-count">{{ cartCount }}</span>
+            </button>
+        </div>
+    </header> -->
+    <section class="category-header">
+        <div class="breadcrumb">
+            <a routerLink="/home">
+                🏠 Home
+            </a>
+
+            <span class="separator">›</span>
+
+            <a class="breadcrumb-link" [routerLink]="['/category', categoryKey]">
+                {{ categoryTitle }}
+            </a>
+
+            <ng-container *ngIf="activeSection">
+                <span class="separator">›</span>
+                <a class="breadcrumb-link" [routerLink]="['/category', categoryKey, activeSection.key]">
+                    {{ activeSection.label }}
+                </a>
+            </ng-container>
+        </div>
+
+    </section>
+
+    <p class="state-message" *ngIf="isLoading">Loading products...</p>
+    <p class="state-message error" *ngIf="errorMessage">{{ errorMessage }}</p>
+    <p class="state-message success" *ngIf="cartMessage">{{ cartMessage }}</p>
+
+
+    <section class="category-layout" *ngIf="activeSection as section">
+        <section class="products-panel">
+            <div class="section-heading">
+                <h2>{{ section.label }}</h2>
+                <p>Showing popular {{ section.label }} with price, offers, and delivery details.</p>
+            </div>
+
+            <div class="product-list">
+                <article class="product-row" *ngFor="let product of section.products">
+                    <div class="product-image">
+                        <img [src]="product.image" [alt]="product.name">
+                    </div>
+
+                    <div class="product-info">
+                        <h3>{{ product.name }}</h3>
+                        <p class="description">{{ product.description }}</p>
+
+                        <div class="rating">
+                            <span class="rating-badge">
+                                {{ product.rating }}
+                                ★
+                            </span>
+                            <span class="rating-count">
+                                1254 Ratings
+                            </span>
+                        </div>
+
+                        <p class="bought">{{ product.bought }}</p>
+                    </div>
+
+                    <div class="product-actions">
+                        <div class="price-line">
+                            <span class="price">{{ product.price }}</span>
+                            <span class="mrp">Original: <del>{{ product.mrp }}</del></span>
+                            <span class="discount">({{ product.discount }})</span>
+                        </div>
+
+                        <p class="offer">{{ product.offer }}</p>
+                        <p class="delivery">{{ product.delivery }}</p>
+
+                        <div class="action-buttons">
+                            <button class="add-cart-btn" type="button" [class.added]="getProductQuantity(product) > 0"
+                                (click)="addToCart(product)">
+                                <span aria-hidden="true">{{ getProductQuantity(product) > 0 ? '✓' : '🛒' }}</span>
+                                {{ getProductQuantity(product) > 0 ? 'Added' : 'Add to Cart' }}
+                                <span *ngIf="getProductQuantity(product) > 0">({{ getProductQuantity(product) }})</span>
+                            </button>
+
+                            <button class="buy-now-btn" type="button" (click)="buyNow(product)">Buy Now</button>
+                        </div>
+                    </div>
+                </article>
+            </div>
+        </section>
+    </section>
+
+
+</main>

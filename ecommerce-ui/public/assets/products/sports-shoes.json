@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Training Shoes",
+    "description": "Performance shoes with stable grip, cushioned sole, and support for active movement.",
+    "price": "₹1,299",
+    "mrp": "₹1,599",
+    "discount": "19% off",
+    "rating": "4.0",
+    "bought": "1K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery Tomorrow",
+    "image": "/assets/products/images/sports-shoes/training-shoes.jpg"
+  },
+  {
+    "name": "Football Studs Series 2",
+    "description": "Performance shoes with stable grip, cushioned sole, and support for active movement.",
+    "price": "₹1,599",
+    "mrp": "₹1,999",
+    "discount": "20% off",
+    "rating": "4.1",
+    "bought": "2K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery in 2 days",
+    "image": "/assets/products/images/sports-shoes/football-studs.jpg"
+  },
+  {
+    "name": "Basketball Shoes Series 3",
+    "description": "Performance shoes with stable grip, cushioned sole, and support for active movement.",
+    "price": "₹1,899",
+    "mrp": "₹2,299",
+    "discount": "17% off",
+    "rating": "4.2",
+    "bought": "3K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery Tomorrow",
+    "image": "/assets/products/images/sports-shoes/basketball-shoes.jpg"
+  },
+  {
+    "name": "Badminton Court Shoes Series 4",
+    "description": "Performance shoes with stable grip, cushioned sole, and support for active movement.",
+    "price": "₹2,199",
+    "mrp": "₹2,699",
+    "discount": "19% off",
+    "rating": "4.3",
+    "bought": "4K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery in 2 days",
+    "image": "/assets/products/images/sports-shoes/badminton-shoes.jpg"
+  },
+  {
+    "name": "Tennis Shoes Series 5",
+    "description": "Performance shoes with stable grip, cushioned sole, and support for active movement.",
+    "price": "₹2,499",
+    "mrp": "₹2,999",
+    "discount": "17% off",
+    "rating": "4.4",
+    "bought": "5K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery Tomorrow",
+    "image": "/assets/products/images/sports-shoes/tennis-shoes.jpg"
+  },
+  {
+    "name": "Cricket Shoes Series 6",
+    "description": "Performance shoes with stable grip, cushioned sole, and support for active movement.",
+    "price": "₹2,799",
+    "mrp": "₹3,399",
+    "discount": "18% off",
+    "rating": "4.5",
+    "bought": "6K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery in 2 days",
+    "image": "/assets/products/images/sports-shoes/cricket-shoes.jpg"
+  },
+  {
+    "name": "Gym Trainers Series 7",
+    "description": "Performance shoes with stable grip, cushioned sole, and support for active movement.",
+    "price": "₹3,099",
+    "mrp": "₹3,799",
+    "discount": "18% off",
+    "rating": "4.6",
+    "bought": "7K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery Tomorrow",
+    "image": "/assets/products/images/sports-shoes/gym-trainers.jpg"
+  },
+  {
+    "name": "Walking Sports Shoes Series 8",
+    "description": "Performance shoes with stable grip, cushioned sole, and support for active movement.",
+    "price": "₹3,399",
+    "mrp": "₹4,099",
+    "discount": "17% off",
+    "rating": "4.0",
+    "bought": "8K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery in 2 days",
+    "image": "/assets/products/images/sports-shoes/walking-sports.jpg"
+  },
+  {
+    "name": "Trail Shoes Series 9",
+    "description": "Performance shoes with stable grip, cushioned sole, and support for active movement.",
+    "price": "₹3,699",
+    "mrp": "₹4,499",
+    "discount": "18% off",
+    "rating": "4.1",
+    "bought": "9K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery Tomorrow",
+    "image": "/assets/products/images/sports-shoes/trail-shoes.jpg"
+  },
+  {
+    "name": "Crossfit Shoes Series 10",
+    "description": "Performance shoes with stable grip, cushioned sole, and support for active movement.",
+    "price": "₹3,999",
+    "mrp": "₹4,799",
+    "discount": "17% off",
+    "rating": "4.2",
+    "bought": "10K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery in 2 days",
+    "image": "/assets/products/images/sports-shoes/crossfit-shoes.jpg"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Kids T-Shirt Set",
+    "description": "Soft kids wear designed for comfort, movement, durability, and easy washing.",
+    "price": "₹499",
+    "mrp": "₹699",
+    "discount": "29% off",
+    "rating": "4.0",
+    "bought": "1K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery Tomorrow",
+    "image": "/assets/products/images/kids-clothing/tshirt-set.jpg"
+  },
+  {
+    "name": "Denim Dungaree Series 2",
+    "description": "Soft kids wear designed for comfort, movement, durability, and easy washing.",
+    "price": "₹799",
+    "mrp": "₹999",
+    "discount": "20% off",
+    "rating": "4.1",
+    "bought": "2K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery in 2 days",
+    "image": "/assets/products/images/kids-clothing/denim-dungaree.jpg"
+  },
+  {
+    "name": "Cotton Frock Series 3",
+    "description": "Soft kids wear designed for comfort, movement, durability, and easy washing.",
+    "price": "₹1,099",
+    "mrp": "₹1,399",
+    "discount": "21% off",
+    "rating": "4.2",
+    "bought": "3K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery Tomorrow",
+    "image": "/assets/products/images/kids-clothing/cotton-frock.jpg"
+  },
+  {
+    "name": "School Shirt Pack Series 4",
+    "description": "Soft kids wear designed for comfort, movement, durability, and easy washing.",
+    "price": "₹1,399",
+    "mrp": "₹1,799",
+    "discount": "22% off",
+    "rating": "4.3",
+    "bought": "4K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery in 2 days",
+    "image": "/assets/products/images/kids-clothing/shirt-pack.jpg"
+  },
+  {
+    "name": "Jogger Set Series 5",
+    "description": "Soft kids wear designed for comfort, movement, durability, and easy washing.",
+    "price": "₹1,699",
+    "mrp": "₹2,099",
+    "discount": "19% off",
+    "rating": "4.4",
+    "bought": "5K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery Tomorrow",
+    "image": "/assets/products/images/kids-clothing/jogger-set.jpg"
+  },
+  {
+    "name": "Winter Hoodie Series 6",
+    "description": "Soft kids wear designed for comfort, movement, durability, and easy washing.",
+    "price": "₹1,999",
+    "mrp": "₹2,499",
+    "discount": "20% off",
+    "rating": "4.5",
+    "bought": "6K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery in 2 days",
+    "image": "/assets/products/images/kids-clothing/winter-hoodie.jpg"
+  },
+  {
+    "name": "Printed Shorts Series 7",
+    "description": "Soft kids wear designed for comfort, movement, durability, and easy washing.",
+    "price": "₹2,299",
+    "mrp": "₹2,799",
+    "discount": "18% off",
+    "rating": "4.6",
+    "bought": "7K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery Tomorrow",
+    "image": "/assets/products/images/kids-clothing/printed-shorts.jpg"
+  },
+  {
+    "name": "Party Dress Series 8",
+    "description": "Soft kids wear designed for comfort, movement, durability, and easy washing.",
+    "price": "₹2,599",
+    "mrp": "₹3,199",
+    "discount": "19% off",
+    "rating": "4.0",
+    "bought": "8K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery in 2 days",
+    "image": "/assets/products/images/kids-clothing/party-dress.jpg"
+  },
+  {
+    "name": "Track Suit Series 9",
+    "description": "Soft kids wear designed for comfort, movement, durability, and easy washing.",
+    "price": "₹2,899",
+    "mrp": "₹3,499",
+    "discount": "17% off",
+    "rating": "4.1",
+    "bought": "9K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery Tomorrow",
+    "image": "/assets/products/images/kids-clothing/track-suit.jpg"
+  },
+  {
+    "name": "Ethnic Kurta Set Series 10",
+    "description": "Soft kids wear designed for comfort, movement, durability, and easy washing.",
+    "price": "₹3,199",
+    "mrp": "₹3,899",
+    "discount": "18% off",
+    "rating": "4.2",
+    "bought": "10K+ bought in past month",
+    "offer": "Special Shopzy offer available today",
+    "delivery": "FREE delivery in 2 days",
+    "image": "/assets/products/images/kids-clothing/ethnic-kurta.jpg"
+  }
+]

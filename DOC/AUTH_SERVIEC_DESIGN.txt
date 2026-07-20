@@ -1,0 +1,52 @@
+                    AUTH SERVICE
+                         |
+          ┌──────────────┴──────────────┐
+          |                             |
+   NORMAL LOGIN                    GOOGLE LOGIN
+          |                             |
+ /api/auth/login              /oauth2/authorization/google
+          |                             |
+ AuthenticationManager              Google
+          |                             |
+ DaoAuthenticationProvider       OAuth2User
+          |                             |
+ BCrypt Password                 OAuth2SuccessHandler
+          |                             |
+          └──────────────┬──────────────┘
+                         |
+                    Generate JWT
+                         |
+                    API Gateway
+                         |
+          ┌──────────────┼──────────────┐
+          |              |              |
+     User Service   Product Service  Order Service
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	
+	 
+	 Normal Login                     Google OAuth2
+     │                                │
+Username + Password              Google Login
+     │                                │
+AuthenticationManager            OAuth2 Authentication
+     │                                │
+DaoAuthenticationProvider        Google validates user
+     │                                │
+     └──────────────┬─────────────────┘
+                    │
+              Generate JWT
+                    │
+              Return JWT
+                    │
+             Angular stores JWT
+                    │
+                    ▼
+          Authorization: Bearer JWT
+                    │
+              API Gateway
